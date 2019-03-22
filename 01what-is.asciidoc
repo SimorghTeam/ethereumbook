@@ -1,8 +1,8 @@
 [role="pagenumrestart"]
 [[whatis_chapter]]
-== What Is Ethereum?
+== اتریوم چیست؟
 
-((("Ethereum (generally)","about", id="ix_01what-is-asciidoc0", range="startofrange")))Ethereum ((("world computer, Ethereum as")))is often described as "the world computer.&#x201d; But what does that mean? Let's start with a computer science–focused description, and then try to decipher that with a more practical analysis of Ethereum's capabilities and characteristics, while comparing it to Bitcoin and other decentralized information exchange platforms (or "blockchains" for short).
+((("Ethereum (generally)","about", id="ix_01what-is-asciidoc0", range="startofrange")))اتریوم ((("world computer, Ethereum as")))اغلب به عنوان «رایانه‌ی جهانی» توصیف میشود اما این به چه معناست؟ بیایید یک توضیح باتوجه به علوم رایانه ارایه دهیم, and then try to decipher that with a more practical analysis of Ethereum's capabilities and characteristics, while comparing it to Bitcoin and other decentralized information exchange platforms (or "blockchains" for short).
 
 From a computer science perspective, Ethereum is a deterministic but practically unbounded state machine, consisting of a globally accessible singleton state and a virtual machine that applies changes to that state.
 
